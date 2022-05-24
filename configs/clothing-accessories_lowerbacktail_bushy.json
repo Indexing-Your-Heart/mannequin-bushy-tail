@@ -1,0 +1,16 @@
+{
+    "name": "Bushy Tail",
+    "layer": "skin",
+    "defaultColors": ["#27160c"],
+    "requirements": [
+        ["body-lowertorso-a", "body-lowertorso-b"]
+    ],
+    "layers": [
+        {
+            "bindTo": "lowerback",
+            "bindMode": "back",
+            "colorGroupID": 0,
+            "componentName": "marquiskurt:bushytail/bushy_tail"
+        }
+    ]
+}

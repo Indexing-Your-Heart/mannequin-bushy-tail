@@ -14,7 +14,7 @@ _Indexing Your Heart_.
 Clone the repository using `git clone` or `gh repo clone` to the directory where
 you want to install DLCs for Mannequin to. Then, follow the instructions provided
 in the Mannequin documentation to install a DLC at
-https://ar14.works/mannequin-docs-dlc.
+https://ar14.works/docs/installing-mods.
 
 ## License
 The source code and corresponding vector graphics are licensed under the Mozilla
